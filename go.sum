@@ -1,0 +1,4 @@
+github.com/hexonet/go-sdk v3.5.1+incompatible h1:XYN7KIZUSt/IeSVSMQCZClp3RiVGkr+smvrJ2U3KWlI=
+github.com/hexonet/go-sdk v3.5.1+incompatible/go.mod h1:B0oC4YZT3P2o0DHTm5SH0WCItW3N+r16nCTOykJZF1c=
+github.com/libdns/libdns v0.2.1 h1:Wu59T7wSHRgtA0cfxC+n1c/e+O3upJGWytknkmFEDis=
+github.com/libdns/libdns v0.2.1/go.mod h1:yQCXzk1lEZmmCPa857bnk4TsOiqYasqpyOEeSObbb40=
